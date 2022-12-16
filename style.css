@@ -1,0 +1,26 @@
+body {
+  background-color: #b7eeee;
+}
+ul {
+  list-style-type: circle;
+}
+.one {
+  color: rgb(247, 9, 9);
+}
+.two {
+  color: rgb(4, 165, 4);
+}
+.fake {
+  background-color: #b3aaff;
+  height: 400px;
+}
+
+.container {
+  background-color: #ffe1aa;
+  height: 2000px;
+}
+
+img {
+  position: sticky;
+  top: 300px;
+}
